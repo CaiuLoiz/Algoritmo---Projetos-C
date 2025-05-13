@@ -2,6 +2,7 @@ Alguns dos projetos desenvolvidos durante a faculdade, onde estava começando a 
 Início a imensidão que é a programação.
 
 logicaComplexa = arrays, ponteiros, funções;
+
 if (logicaComplexa) {
     O projeto Avaliação Final foi o pontapé inicial;
     O projeto Jogo da Velha foi um desafio intermediário;
